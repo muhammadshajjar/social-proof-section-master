@@ -132,9 +132,10 @@ Clients review section
     margin-right: 1.37rem;
 }
 
-.review-card__profile h3 {
+.review-card__profile h2 {
     margin-bottom: 0.31rem;
     font-weight: var(--fs-500);
+    font-size: 0.91rem;
 }
 
 .review-card__profile p {
